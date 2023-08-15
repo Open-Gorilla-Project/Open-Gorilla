@@ -1,3 +1,5 @@
+discord server: https://discord.gg/HStFTMU2
+
 # Open-Gorilla
 Open Gorilla is a Gorilla Tag rip-off meant to be open source. (i just started this, so don't expect anything good here)
 
